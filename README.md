@@ -35,7 +35,7 @@ This project is an ultrasonic distance meter using Arduino Nano and HC-SR04. It 
 
 ## Wiring Diagram
 
-![Scheme](./docs/scheme.jpg)
+![Scheme](./docs/media/Scheme.jpg)
 
 ---
 
